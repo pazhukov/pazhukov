@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello world
 
-<!--
-**pazhukov/pazhukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analyst developer in an investment company
 
-Here are some ideas to get you started:
+Languages:
+• 1C, Python
+• Golang, Java, Swift
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies:
+• TIBCO systems for integration
+• ELK stack
+
+OS:
+• Window
+• Linux
+• macOS
+
+Interests:
+• Investments, asset management
+• Blockchain and cryptocurrencies
+• Digital integrations between systems
+
+⌨ Linkedin [Profile](https://www.linkedin.com/in/max-pazhukov-5909b774/)
